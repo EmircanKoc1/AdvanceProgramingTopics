@@ -25,9 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.Ge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.CovarianceContravariance", "AdvanceProgrammingTopics.CovarianceContravariance\AdvanceProgrammingTopics.CovarianceContravariance.csproj", "{B8E226FE-1E18-42A5-8C4A-04346CAC62FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceProgrammingTopics.Delegates", "AdvanceProgrammingTopics.Delegates\AdvanceProgrammingTopics.Delegates.csproj", "{4C8467F5-D404-48B5-B2B7-908B7FEB9BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.Delegates", "AdvanceProgrammingTopics.Delegates\AdvanceProgrammingTopics.Delegates.csproj", "{4C8467F5-D404-48B5-B2B7-908B7FEB9BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceProgrammingTopics.Events", "AdvanceProgrammingTopics.Events\AdvanceProgrammingTopics.Events.csproj", "{858DA286-2BD8-4F75-83F8-C984C7D17968}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.Events", "AdvanceProgrammingTopics.Events\AdvanceProgrammingTopics.Events.csproj", "{858DA286-2BD8-4F75-83F8-C984C7D17968}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.AnonymusStructures", "AdvanceProgrammingTopics.AnonymusStructures\AdvanceProgrammingTopics.AnonymusStructures.csproj", "{81EB6964-591C-40C2-A0B5-A9DAF06EB93C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.ExpandoObject", "AdvanceProgrammingTopics.ExpandoObject\AdvanceProgrammingTopics.ExpandoObject.csproj", "{686E394C-EE83-4844-A031-CBFF4A48FFEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceProgrammingTopics.Interfaces", "AdvanceProgrammingTopics.Interfaces\AdvanceProgrammingTopics.Interfaces.csproj", "{EC380A30-F2DD-4555-8210-F988FEFE795F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceProgrammingTopics.Enumerator", "AdvanceProgrammingTopics.Enumerator\AdvanceProgrammingTopics.Enumerator.csproj", "{E21742FA-BABC-44A0-89FE-C1B95ACAE555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{858DA286-2BD8-4F75-83F8-C984C7D17968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{858DA286-2BD8-4F75-83F8-C984C7D17968}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{858DA286-2BD8-4F75-83F8-C984C7D17968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EB6964-591C-40C2-A0B5-A9DAF06EB93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EB6964-591C-40C2-A0B5-A9DAF06EB93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EB6964-591C-40C2-A0B5-A9DAF06EB93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EB6964-591C-40C2-A0B5-A9DAF06EB93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686E394C-EE83-4844-A031-CBFF4A48FFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686E394C-EE83-4844-A031-CBFF4A48FFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686E394C-EE83-4844-A031-CBFF4A48FFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686E394C-EE83-4844-A031-CBFF4A48FFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC380A30-F2DD-4555-8210-F988FEFE795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC380A30-F2DD-4555-8210-F988FEFE795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC380A30-F2DD-4555-8210-F988FEFE795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC380A30-F2DD-4555-8210-F988FEFE795F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21742FA-BABC-44A0-89FE-C1B95ACAE555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21742FA-BABC-44A0-89FE-C1B95ACAE555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21742FA-BABC-44A0-89FE-C1B95ACAE555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21742FA-BABC-44A0-89FE-C1B95ACAE555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

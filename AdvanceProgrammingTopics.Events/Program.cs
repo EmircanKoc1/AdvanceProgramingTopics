@@ -12,23 +12,12 @@ namespace AdvanceProgrammingTopics.Events
 
             };
 
-
             m.MyEvent += X;
-
 
             m.RaiseEvent();
 
-
-
-
-
-
-
-
-
             void X()
             {
-
             };
 
 
